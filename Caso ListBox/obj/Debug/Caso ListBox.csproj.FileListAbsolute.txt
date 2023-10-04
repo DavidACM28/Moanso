@@ -1,0 +1,21 @@
+C:\Users\dacas\source\repos\Caso ListBox\Caso ListBox\bin\Debug\Caso ListBox.exe.config
+C:\Users\dacas\source\repos\Caso ListBox\Caso ListBox\bin\Debug\Caso ListBox.exe
+C:\Users\dacas\source\repos\Caso ListBox\Caso ListBox\bin\Debug\Caso ListBox.pdb
+C:\Users\dacas\source\repos\Caso ListBox\Caso ListBox\obj\Debug\Caso ListBox.csproj.AssemblyReference.cache
+C:\Users\dacas\source\repos\Caso ListBox\Caso ListBox\obj\Debug\Caso ListBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\dacas\source\repos\Caso ListBox\Caso ListBox\obj\Debug\Caso_ListBox.Form1.resources
+C:\Users\dacas\source\repos\Caso ListBox\Caso ListBox\obj\Debug\Caso_ListBox.Properties.Resources.resources
+C:\Users\dacas\source\repos\Caso ListBox\Caso ListBox\obj\Debug\Caso ListBox.csproj.GenerateResource.cache
+C:\Users\dacas\source\repos\Caso ListBox\Caso ListBox\obj\Debug\Caso ListBox.csproj.CoreCompileInputs.cache
+C:\Users\dacas\source\repos\Caso ListBox\Caso ListBox\obj\Debug\Caso ListBox.exe
+C:\Users\dacas\source\repos\Caso ListBox\Caso ListBox\obj\Debug\Caso ListBox.pdb
+C:\Users\USUARIO\Desktop\Caso ListBox\Caso ListBox\bin\Debug\Caso ListBox.exe.config
+C:\Users\USUARIO\Desktop\Caso ListBox\Caso ListBox\bin\Debug\Caso ListBox.exe
+C:\Users\USUARIO\Desktop\Caso ListBox\Caso ListBox\bin\Debug\Caso ListBox.pdb
+C:\Users\USUARIO\Desktop\Caso ListBox\Caso ListBox\obj\Debug\Caso ListBox.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Caso ListBox\Caso ListBox\obj\Debug\Caso_ListBox.Form1.resources
+C:\Users\USUARIO\Desktop\Caso ListBox\Caso ListBox\obj\Debug\Caso_ListBox.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\Caso ListBox\Caso ListBox\obj\Debug\Caso ListBox.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\Caso ListBox\Caso ListBox\obj\Debug\Caso ListBox.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Caso ListBox\Caso ListBox\obj\Debug\Caso ListBox.exe
+C:\Users\USUARIO\Desktop\Caso ListBox\Caso ListBox\obj\Debug\Caso ListBox.pdb
